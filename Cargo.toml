@@ -1,7 +1,7 @@
 [package]
 name = "directory_manager"
 authors = ["Achsion"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A small manager/helper in addition to the directories crate"
 repository = "https://github.com/Achsion/rust-directory_manager"
