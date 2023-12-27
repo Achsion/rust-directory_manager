@@ -6,7 +6,7 @@ edition = "2021"
 description = "A small manager/helper in addition to the directories crate"
 repository = "https://github.com/Achsion/rust-directory_manager"
 rust-version = "1.74"
-license = "LICENSE"
+license-file = "LICENSE"
 
 [dependencies]
 directories = "5.0.1"
